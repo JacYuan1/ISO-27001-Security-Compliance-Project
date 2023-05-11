@@ -38,4 +38,4 @@ Part 2
 
 ## References
 
-[Written report linked here]()
+[Written report linked here](https://github.com/JacYuan1/ISO-27001-Security-Security-Compliance-Project/blob/main/Report.pdf)
